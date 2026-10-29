@@ -1,0 +1,9 @@
+method,distress_location,rescue_station,travel_time_min
+Nearest-station baseline,D1,R1,22
+Nearest-station baseline,D2,R2,19
+Nearest-station baseline,D3,R2,20
+Nearest-station baseline,D4,R3,14
+Nearest-station baseline,D5,R2,16
+Minimum-cost assignment,D1,R1,22
+Minimum-cost assignment,D5,R2,16
+Minimum-cost assignment,D4,R3,14
