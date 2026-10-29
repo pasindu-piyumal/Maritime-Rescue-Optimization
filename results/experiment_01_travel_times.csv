@@ -1,0 +1,16 @@
+Rescue Station,Distress Location,Travel Time (minutes),Shortest Path
+R1,D1,22,R1 -> W1 -> D1
+R1,D2,30,R1 -> W1 -> D2
+R1,D3,44,R1 -> W2 -> W3 -> D3
+R1,D4,67,R1 -> W2 -> W3 -> D3 -> W4 -> D4
+R1,D5,38,R1 -> W2 -> D5
+R2,D1,43,R2 -> W3 -> W2 -> W1 -> D1
+R2,D2,19,R2 -> W3 -> D2
+R2,D3,20,R2 -> W4 -> D3
+R2,D4,27,R2 -> W4 -> D4
+R2,D5,16,R2 -> D5
+R3,D1,66,R3 -> W5 -> D5 -> W2 -> W1 -> D1
+R3,D2,47,R3 -> W5 -> W4 -> D3 -> W3 -> D2
+R3,D3,27,R3 -> W5 -> W4 -> D3
+R3,D4,14,R3 -> D4
+R3,D5,28,R3 -> W5 -> D5
