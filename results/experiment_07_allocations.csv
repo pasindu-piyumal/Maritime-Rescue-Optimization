@@ -1,0 +1,16 @@
+method,distress_location,priority,rescue_station,vessel_number,travel_time_min
+Minimum Total Travel Time,D1,Critical,R1,1,22.0
+Minimum Total Travel Time,D2,High,R2,1,19.0
+Minimum Total Travel Time,D3,Normal,R3,2,27.0
+Minimum Total Travel Time,D4,Critical,R3,1,14.0
+Minimum Total Travel Time,D5,High,R2,2,16.0
+Minimum Maximum Response Time,D1,Critical,R1,1,22.0
+Minimum Maximum Response Time,D2,High,R2,1,19.0
+Minimum Maximum Response Time,D3,Normal,R3,2,27.0
+Minimum Maximum Response Time,D4,Critical,R3,1,14.0
+Minimum Maximum Response Time,D5,High,R2,2,16.0
+Critical-Incident Priority-First,D1,Critical,R1,1,22.0
+Critical-Incident Priority-First,D4,Critical,R3,1,14.0
+Critical-Incident Priority-First,D2,High,R2,1,19.0
+Critical-Incident Priority-First,D5,High,R2,2,16.0
+Critical-Incident Priority-First,D3,Normal,R3,2,27.0

@@ -1,0 +1,10 @@
+metric,metric_label,method_A,method_B,paired_scenarios,mean_difference_A_minus_B,bootstrap_95CI_lower,bootstrap_95CI_upper
+total_travel_time_min,Total travel time (minutes),Minimum Total Travel Time,Minimum Maximum Response Time,500,-0.612973523194422,-0.7899065352162379,-0.45376646298345097
+total_travel_time_min,Total travel time (minutes),Minimum Total Travel Time,Critical-Incident Priority-First,500,-3.872422734465582,-4.625736963655947,-3.142889328865938
+total_travel_time_min,Total travel time (minutes),Minimum Maximum Response Time,Critical-Incident Priority-First,500,-3.2594492112711597,-4.04375908247876,-2.5284207055836263
+maximum_response_time_min,Maximum response time (minutes),Minimum Total Travel Time,Minimum Maximum Response Time,500,0.4505598219877617,0.3300795134067396,0.5818502116968046
+maximum_response_time_min,Maximum response time (minutes),Minimum Total Travel Time,Critical-Incident Priority-First,500,-3.3734870892413755,-4.076063500689608,-2.7169060199630617
+maximum_response_time_min,Maximum response time (minutes),Minimum Maximum Response Time,Critical-Incident Priority-First,500,-3.824046911229137,-4.530621055045375,-3.159838045023765
+critical_mean_response_min,Critical-incident mean response (minutes),Minimum Total Travel Time,Minimum Maximum Response Time,500,-0.04813403986167341,-0.09366795949350248,-0.011334151905075572
+critical_mean_response_min,Critical-incident mean response (minutes),Minimum Total Travel Time,Critical-Incident Priority-First,500,0.00039957845987448337,0.0,0.0011987353796234501
+critical_mean_response_min,Critical-incident mean response (minutes),Minimum Maximum Response Time,Critical-Incident Priority-First,500,0.04853361832154789,0.01206768591268939,0.09515523731664467

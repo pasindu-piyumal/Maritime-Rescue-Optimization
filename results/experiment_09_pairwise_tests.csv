@@ -1,0 +1,10 @@
+metric,method_A,method_B,paired_scenarios,mean_difference_A_minus_B,wilcoxon_statistic,p_value,test_note,holm_adjusted_p_value,significant_at_0.05_after_Holm
+total_travel_time_min,Minimum Total Travel Time,Minimum Maximum Response Time,500,-0.612973523194422,0.0,7.732733053009578e-14,,3.8663665265047893e-13,True
+total_travel_time_min,Minimum Total Travel Time,Critical-Incident Priority-First,500,-3.872422734465582,0.0,2.2259158724964484e-25,,1.7807326979971587e-24,True
+total_travel_time_min,Minimum Maximum Response Time,Critical-Incident Priority-First,500,-3.2594492112711597,2491.0,6.655990320392515e-16,,3.993594192235509e-15,True
+maximum_response_time_min,Minimum Total Travel Time,Minimum Maximum Response Time,500,0.4505598219877617,0.0,7.732733053009578e-14,,3.8663665265047893e-13,True
+maximum_response_time_min,Minimum Total Travel Time,Critical-Incident Priority-First,500,-3.3734870892413755,231.0,4.5167794755393115e-22,,3.1617456328775183e-21,True
+maximum_response_time_min,Minimum Maximum Response Time,Critical-Incident Priority-First,500,-3.824046911229137,0.0,3.849778165274777e-30,,3.464800348747299e-29,True
+critical_mean_response_min,Minimum Total Travel Time,Minimum Maximum Response Time,500,-0.04813403986167341,0.0,0.017960477526078766,,0.03592095505215753,True
+critical_mean_response_min,Minimum Total Travel Time,Critical-Incident Priority-First,500,0.00039957845987448337,0.0,0.31731050786291415,,0.31731050786291415,False
+critical_mean_response_min,Minimum Maximum Response Time,Critical-Incident Priority-First,500,0.04853361832154789,0.0,0.011718685599768628,,0.03515605679930588,True

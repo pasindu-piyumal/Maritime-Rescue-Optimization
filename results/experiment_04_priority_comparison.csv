@@ -1,0 +1,3 @@
+method,assigned_incidents,total_incidents,coverage_percent,total_travel_time_min,mean_travel_time_min,maximum_travel_time_min,critical_incidents_assigned,critical_mean_travel_time_min,priority_weighted_cost
+Greedy Baseline,5,5,100.0,103.0,20.6,28.0,2,18.0,55.5
+Priority-Aware Optimization,5,5,100.0,102.0,20.4,30.0,2,18.0,55.0

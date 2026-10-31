@@ -1,0 +1,4 @@
+method,assigned_incidents,total_incidents,coverage_percent,total_travel_time_min,mean_travel_time_min,maximum_travel_time_min,response_time_std_min,critical_mean_time_min,high_mean_time_min,normal_mean_time_min
+Minimum Total Travel Time,5,5,100.0,98.0,19.6,27.0,4.59,18.0,17.5,27.0
+Minimum Maximum Response Time,5,5,100.0,98.0,19.6,27.0,4.59,18.0,17.5,27.0
+Critical-Incident Priority-First,5,5,100.0,98.0,19.6,27.0,4.59,18.0,17.5,27.0

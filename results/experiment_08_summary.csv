@@ -1,0 +1,4 @@
+method,scenarios,mean_total_time_min,std_total_time_min,mean_response_time_min,mean_maximum_response_min,mean_critical_response_min,mean_coverage_percent
+Critical-Incident Priority-First,500,114.03,16.07,22.81,34.31,20.13,100.0
+Minimum Maximum Response Time,500,110.77,13.08,22.15,30.48,20.17,100.0
+Minimum Total Travel Time,500,110.16,12.66,22.03,30.93,20.13,100.0

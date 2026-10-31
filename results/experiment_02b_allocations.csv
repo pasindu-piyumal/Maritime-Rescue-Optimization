@@ -1,0 +1,11 @@
+method,distress_location,rescue_station,vessel_number,travel_time_min
+Capacity-constrained greedy baseline,D1,R1,1,22
+Capacity-constrained greedy baseline,D2,R2,1,19
+Capacity-constrained greedy baseline,D3,R2,2,20
+Capacity-constrained greedy baseline,D4,R3,1,14
+Capacity-constrained greedy baseline,D5,R3,2,28
+Capacity-constrained optimization,D1,R1,1,22
+Capacity-constrained optimization,D2,R2,1,19
+Capacity-constrained optimization,D5,R2,2,16
+Capacity-constrained optimization,D4,R3,1,14
+Capacity-constrained optimization,D3,R3,2,27
